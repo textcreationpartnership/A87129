@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aphorisms political. By James Harrington.</title>
+            <author>Harrington, James, 1611-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87129</idno>
+            <idno type="STC">Wing H804</idno>
+            <idno type="STC">Thomason E995_8</idno>
+            <idno type="STC">ESTC R202590</idno>
+            <idno type="EEBO-CITATION">99862820</idno>
+            <idno type="PROQUEST">99862820</idno>
+            <idno type="VID">114997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114997)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E995[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aphorisms political. By James Harrington.</title>
+                  <author>Harrington, James, 1611-1677.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for Henry Fletcher, at the signe of the three Gilt Cups in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Aug. 25. 1659.</note>
+                  <note>Annotation on Thomason copy: "August 31 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+               <term>Political science --  Quotations, maxims, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114997:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>APHORISMS POLITICAL.</p>
+            <p>BY James Harrington.</p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>Henry Fletcher,</hi> at the ſigne of the three Gilt Cups in St. <hi>Pauls</hi> Church-yard.</p>
+         </div>
+      </front>
+      <body>
+         <div type="aphorisms">
+            <pb n="1" facs="tcp:114997:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>Aphoriſms Political.</head>
+            <p n="1">I. <hi>OBſequium amicos, veritas odium parit.</hi> The Errours and Sufferings of the People are from their Governours.</p>
+            <p n="2">II. When the Foundation of a Government cometh to be changed, and the Governours change not the Superſtructures accordingly, the people become miſerable.</p>
+            <p n="3">III. The Monarchy of <hi>England</hi> was not a Government by Arms, but a Government by Laws, though imperfect or ineffectual Laws.</p>
+            <p n="4">IV. The Latter Governments in <hi>England,</hi> have been Govern<g ref="char:EOLhyphen"/>ments by Arms.</p>
+            <p n="5">V. The people cannot ſee, but they can feel.</p>
+            <p n="6">VI. The people having felt the difference between a Govern<g ref="char:EOLhyphen"/>ment by Laws, and a Government by Arms, will always de<g ref="char:EOLhyphen"/>ſire the Government by Laws, and abhor that of Arms.</p>
+            <p n="7">VII. Where the ſpirit of the people is impatient of a Govern<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:114997:3"/>
+               <!-- PDF PAGE 3 -->by Arms, and deſirous of a Government by Laws, there the ſpirit of the people is not unfit to be truſted with their Liberty.</p>
+            <p n="8">VIII. The ſpirit of the people of <hi>England,</hi> not truſted with their Liberty, driveth at the Reſtitution of Monarchy by Blood and Violence.</p>
+            <p n="9">IX. The ſpirit of the people of <hi>England,</hi> truſted with their Li<g ref="char:EOLhyphen"/>berty, if the form be ſufficient, can never reſtore Monarchy; and if the form be inſufficient, will reſtore it without Blood or Violence.</p>
+            <p n="10">X. The ſufficiency of the form wherein the ſpirit of a people may be truſted with their Liberty, amounteth to a well-or<g ref="char:EOLhyphen"/>dered Commonwealth, or Democracy.</p>
+            <p n="11">XI. Where there is a well-ordered Commonwealth, the peo<g ref="char:EOLhyphen"/>ple are generally ſatisfied.</p>
+            <p n="12">XII. Where the people are generally diſſatisfied, there is no Commonwealth.</p>
+            <p n="13">XIII. The parties in <hi>England</hi> declaring for a Commonwealth, hold every one of them ſomething that is inconſiſtent with a Commonwealth.</p>
+            <p n="14">XIV. To hold that the Government may be managed by a few, or by a party, is inconſiſtent with a Commonwealth.</p>
+            <p n="15">XV. To hold that there can be any National Religion or Mini<g ref="char:EOLhyphen"/>ſtry without publick Indowment and Inſpection of the Ma<g ref="char:EOLhyphen"/>giſtracy, or any Government without a National Religion or Miniſtry, is inconſiſtent with a Commonwealth.</p>
+            <p n="16">
+               <pb n="3" facs="tcp:114997:3"/>
+               <!-- PDF PAGE 3 -->
+XVI. To hold that there may be Liberty, and not Liberty of Conſcience, is inconſiſtent with a Commonwealth that hath the Liberty of her own Conſcience, or that is not Po<g ref="char:EOLhyphen"/>piſh.</p>
+            <p n="17">XVII. Either Liberty of Conſcience can have no ſecurity at all, or under Popular Government muſt have the greateſt ſecuri<g ref="char:EOLhyphen"/>ty.</p>
+            <p n="18">XVIII. To hold that a Government may be introduced by a little at once, is to wave prudence, and commit things unto chance.</p>
+            <p n="19">XIX. To hold that the Wiſdom of God in the Formation of an Houſe, or of a Government, goeth not univerſally upon na<g ref="char:EOLhyphen"/>tural principles, is inconſiſtent with Scripture.</p>
+            <p n="20">XX. To hold that the wiſdom of man in the Formation of an Houſe, or of Government, may go upon ſupernatural princi<g ref="char:EOLhyphen"/>ples, is inconſiſtent with a Commonwealth, and cometh to a kind of breaking of Jeſts; as if one ſhould ſay, God ordai<g ref="char:EOLhyphen"/>ned the Temple, therefore it was not built by Maſons; He ordained the Snuffers, therefore they were not made by a Smith.</p>
+            <p n="21">XXI. To hold that Hirelings, or an endowed Miniſtry, ought to be removed out of the Church, is inconſiſtent with a Commonwealth.</p>
+            <p n="22">XXII. Nature is of God.</p>
+            <p n="23">XXIII. Some part in every Religion is natural.</p>
+            <p n="24">XXIV. An univerſal Effect, demonſtrateth an univerſal Cauſe.</p>
+            <p n="25">
+               <pb n="4" facs="tcp:114997:4"/>
+               <!-- PDF PAGE 4 -->
+XXV. An univerſal Cauſe is not ſo much natural, as it is Nature it ſelf.</p>
+            <p n="26">XXVI. Every man, either unto his terrour or conſolation, hath ſome ſenſe of Religion.</p>
+            <p n="27">XXVII. Man may rather be defined a Religious, then a Rational Creature; in regard that in other Creatures there is ſome<g ref="char:EOLhyphen"/>thing of Reaſon, but nothing of Religion.</p>
+            <p n="28">XXVIII. Government is of humane Prudence, and humane Pru<g ref="char:EOLhyphen"/>dence is adequate unto mans nature.</p>
+            <p n="29">XXIX. The prudence or Government that is regardleſs of Reli<g ref="char:EOLhyphen"/>gion, is not adequate nor ſatisfactory unto mans nature.</p>
+            <p n="30">
+               <hi>XXX.</hi> Where the Government is not adequate or ſatisfactory unto mans nature, it can never be quiet or perfect.</p>
+            <p n="31">
+               <hi>XXXI.</hi> The major part of mankinde giveth it ſelf up in the mat<g ref="char:EOLhyphen"/>ter of Religion unto the publick leading.</p>
+            <p n="32">
+               <hi>XXXII.</hi> That there may be a publick leading, there muſt be a Nati<g ref="char:EOLhyphen"/>onal Religion.</p>
+            <p n="33">
+               <hi>XXXIII.</hi> Where the minor part taketh away the National Religi<g ref="char:EOLhyphen"/>on, there the major part is deprived of the Liberty of Con<g ref="char:EOLhyphen"/>ſcience by the minor.</p>
+            <p n="34">
+               <hi>XXXIV.</hi> Where the major part is deprived of the Liberty of Con<g ref="char:EOLhyphen"/>ſcience by the minor, there they will deprive the minor of that Liberty of Conſcience which they might otherwiſe en<g ref="char:EOLhyphen"/>joy.</p>
+            <p n="35">
+               <pb n="5" facs="tcp:114997:4"/>
+               <!-- PDF PAGE 4 -->
+               <hi>XXXV.</hi> In <hi>Iſrael</hi> there was an endowed Clergie or Prieſthood, and a National Religion under inſpection of the Magiſtrate: whence the Chriſtians in Apoſtolick times defraying their own Miniſtry, could have Liberty of Conſcience; whereas if the Chriſtians by going about to take away Tythes, and a<g ref="char:EOLhyphen"/>boliſh the National Religion, had endeavoured to violate the Conſciences of the unconverted Jews, theſe being far grea<g ref="char:EOLhyphen"/>ter in number, muſt needs have taken away the Liberty of Conſcience from the Chriſtians.</p>
+            <p n="36">
+               <hi>XXXVI. Paul</hi> in <hi>Athens</hi> could freely and undiſturbedly convert <hi>Dio<g ref="char:EOLhyphen"/>nyſius</hi> and others; therefore in <hi>Athens</hi> there was Liberty of Conſcience: but if <hi>Paul</hi> and his Converts had gone about to drive Hirelings, or an endowed Prieſthood or Clergie our of that Church, who ſeeth not that the <hi>Athenians</hi> would have driven <hi>Paul</hi> and his Converts out of <hi>Athens?</hi>
+            </p>
+            <p n="37">
+               <hi>XXXVII.</hi> That there may be Liberty of Conſcience, there muſt be a National Religion.</p>
+            <p n="38">
+               <hi>XXXVIII.</hi> That there may be a National Religion, there muſt be an endowed Clergie.</p>
+            <p n="39">
+               <hi>XXXIX.</hi> Till a Commonwealth be firſt framed, how ſuch a Com<g ref="char:EOLhyphen"/>monwealth ſhould make an effectual Union with another Nation, is not poſſible to be ſeen.</p>
+            <p n="40">
+               <hi>XXXX.</hi> The Union with <hi>Scotland,</hi> as it is vulgarly diſcourſed of, is deſtructive both to the hopes of a Commonwealth in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and of Liberty in <hi>Scotland.</hi>
+            </p>
+            <p n="41">
+               <hi>XLI.</hi> The Union vulgarly ſpoken of, is by uniting Deputies of divers Commonwealths or Nations in the ſame ſtanding Councils.</p>
+            <p n="42">
+               <pb n="6" facs="tcp:114997:5"/>
+               <!-- PDF PAGE 5 -->
+               <hi>XLII.</hi> If the Commonwealth of <hi>England</hi> receive Deputies from <hi>Scotland</hi> in a greater number then that of her own, ſhe recei<g ref="char:EOLhyphen"/>eth Law from a forraign intereſt, and ſo loſeth her own Li<g ref="char:EOLhyphen"/>berty.</p>
+            <p n="43">
+               <hi>XLIII.</hi> If <hi>Scotland</hi> be received in an equal number, it obſtructeth the freedom of both, or occaſioneth War or Diſſention.</p>
+            <p n="44">
+               <hi>XLIV.</hi> If <hi>Scotland</hi> be received in an inferiour number, ſhe recei<g ref="char:EOLhyphen"/>veth Law from <hi>England,</hi> and ſo loſeth her Liberty.</p>
+            <p n="45">
+               <hi>XLV.</hi> VVhere Countries are divers in their Laws, and yet are to receive Laws one from the other, neither the Common<g ref="char:EOLhyphen"/>wealth giving Law knoweth what to give, nor the Common<g ref="char:EOLhyphen"/>wealth receiving Law, underſtandeth what ſhe receiveth: in which caſe the Union returneth unto force or confuſion.</p>
+            <p n="46">
+               <hi>XLVI.</hi> The beſt way of holding a Nation different or not diffe<g ref="char:EOLhyphen"/>rent in Laws, is by way of Province.</p>
+            <p n="47">
+               <hi>XLVII.</hi> A Province, eſpecially if ſhe have ſtrong holds, may by defraying of a ſmall guard, be kept unto a juſt League, and for the reſt enjoy her own Laws, her own Government, and her perfect Liberty: other ways of Union, will be found more chargeable, and leſs effectual, on both ſides: for if <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have no Army in <hi>Scotland, Scotland</hi> will receive no Law from <hi>England;</hi> and if <hi>England</hi> have an Army there, her hold conſiſteth not in the Union, but in the force.</p>
+            <p n="48">
+               <hi>XLVIII.</hi> If a Country be very ſmall, and not able to ſubſiſt of it ſelf, as <hi>Wales,</hi> it may be ſafely united, and held: but the ad<g ref="char:EOLhyphen"/>vantage that <hi>Wales</hi> hath in participation of all Magiſtracies and Offices, is not that which <hi>England</hi> is able to afford unto ſuch a Country as <hi>Scotland,</hi> without ſubjecting her neck under the yoak.</p>
+            <p n="49">
+               <pb n="7" facs="tcp:114997:5"/>
+               <!-- PDF PAGE 5 -->
+               <hi>XLIX.</hi> The order of a Commonwealth requireth, that it conſiſt firſt of a Civil; ſecondly, of a Religious; thirdly, of a Mili<g ref="char:EOLhyphen"/>tary, and fourthly, of a Provincial Part. The manner of uniting Provinces or different Nations, appertaineth unto the laſt part; and in the formation of a Commonwealth, to be<g ref="char:EOLhyphen"/>gin with that firſt, which is naturally laſt, is to invert the or<g ref="char:EOLhyphen"/>der, and by Conſequence the Commonwealth, which indeed is nothing but order.</p>
+            <p n="50">
+               <hi>L.</hi> Where there can be any other Government, there can be no Commonwealth.</p>
+            <p n="51">
+               <hi>LI.</hi> Where there can be a Commonwealth, what tumults ſoe<g ref="char:EOLhyphen"/>ver there happen, and which ſoever prevail, there can be no other Government; that is to ſay, without forraign invaſion, which throughout, I muſt be underſtood to except.</p>
+            <p n="62">
+               <hi>LXII.</hi> If Sir <hi>George Booth</hi> had prevailed, he muſt either have intro<g ref="char:EOLhyphen"/>duced a Commonwealth, or have reſtored a King.</p>
+            <p n="53">
+               <hi>LIII.</hi> If a King were reſtored, he muſt either govern by an Ar<g ref="char:EOLhyphen"/>my, or by Parliaments.</p>
+            <p n="54">
+               <hi>LIV.</hi> A King governing now in <hi>England</hi> by an Army, would for the ſame Cauſes finde the ſame effects with the late Pro<g ref="char:EOLhyphen"/>tector.</p>
+            <p n="55">
+               <hi>LV.</hi> A King governing now in <hi>England</hi> by Parliaments, would finde the Nobility of no effect at all.</p>
+            <p n="56">
+               <hi>LVI.</hi> A Parliament where the Nobility is of no effect at all, is a meer popular Council.</p>
+            <p n="57">
+               <hi>LVII.</hi> A meer popular Council, will never receive Law from a King.</p>
+            <p n="18">
+               <hi>XVIII.</hi> A meer popular Council giving Law unto a King, beco<g ref="char:EOLhyphen"/>meth
+<pb n="8" facs="tcp:114997:6"/>
+               <!-- PDF PAGE 6 -->thereby a Democracy, or equal Commonwealth; or the difference is no greater then in the imperfection of the Form.</p>
+            <p n="59">
+               <hi>LIX.</hi> A Commonwealth or Democracy to be perfect in the Form, muſt conſiſt eſpecially of ſuch an Aſſembly, the re<g ref="char:EOLhyphen"/>ſult whereof, can go upon no intereſt whatſoever, but that onely which is the common intereſt of the whole people.</p>
+            <p n="60">LX. An Aſſembly conſiſting of a few, may go upon the inte<g ref="char:EOLhyphen"/>reſt of one man, as a King; or upon the intereſt of one party, as that of Divines, Lawyers, and the like; or the intereſt of themſelves, and the perpetuation of their Government.</p>
+            <p n="61">LXI. The popular Aſſembly in a Commonwealth, may conſiſt of too few, but can never conſiſt of too many.</p>
+            <p n="62">LXII. If the popular Aſſembly conſiſt of ſo few, and ſo eminent perſons as are capable of any orderly debate, it is good for nothing but to deſtroy the Commonwealth.</p>
+            <p n="63">LXIII. If the popular Aſſembly conſiſt of ſo many, and for the greater part of ſo mean perſons as are not capable of debate, there muſt be a Senate to help this defect.</p>
+            <p n="64">LXIV. The Reaſon of the Senate, is, that a popular Aſſembly rightly conſtituted, is not capable of any prudent debate.</p>
+            <p n="65">LXV. The Reaſon of the popular Aſſembly, is, that a Senate rightly conſtituted for debate, muſt conſiſt of ſo few and e<g ref="char:EOLhyphen"/>minent perſons, that if they have the reſult too, they will not reſolve according unto the intereſt of the people, but accor<g ref="char:EOLhyphen"/>ding to the intereſt of themſelves.</p>
+            <p n="66">LXVI. The Senate and the popular Aſſembly being once rightly
+<pb n="9" facs="tcp:114997:6"/>
+               <!-- PDF PAGE 6 -->conſtituted, the reſt of the Commonwealth will conſtitute it ſelf.</p>
+            <p n="67">LXVII. The <hi>Venetians</hi> having ſlain divers of their Dukes for their Tyranny, and being aſſembled by ſuch numbers in their great Council as were naturally incapable of debate, pitched upon thirty Gentlemen who were called <hi>Pregati,</hi> in that they were prayed to go apart, and debating upon the Exigence of the Commonwealth, to propoſe as they thought good unto the great Council; and from thence firſt aroſe the Senate of <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> to this day called the <hi>Pregati;</hi> and the <hi>Great Council,</hi> that is, the Senate and the popular Aſſembly of <hi>Venice:</hi> and from theſe two aroſe all thoſe admirable Orders of that Com<g ref="char:EOLhyphen"/>wealth.</p>
+            <p n="68">LXVIII. The popular Aſſembly of <hi>Venice</hi> at this day, conſiſteth of about two thouſand: the popular Aſſemblies in the Pro<g ref="char:EOLhyphen"/>vince onely of <hi>Holland,</hi> conſiſt of about five hundred; by which I gueſs, that in all the united Provinces, they may a<g ref="char:EOLhyphen"/>mount unto about three thouſand: in <hi>Switz</hi> they come unto a far greater number; and all, or the moſt of theſe, are perpe<g ref="char:EOLhyphen"/>tually extant.</p>
+            <p n="69">LXIX. If a popular Aſſembly conſiſting of eleven hundred or a thouſand, may be ſo framed in <hi>England</hi> as to be ſufficient to preſerve the intereſt of the people, ſuch an Aſſembly of ſo few, in a Territory of ſo large an extent, will be altogether new in the world, and without any example.</p>
+            <p n="70">
+               <hi>LXX.</hi> That a people of themſelves ſhould have ſuch underſtan<g ref="char:EOLhyphen"/>ding, as when they of <hi>Venice</hi> did inſtitute their <hi>Pregati</hi> or Se<g ref="char:EOLhyphen"/>nate, is rare.</p>
+            <p n="71">
+               <hi>LXXI.</hi> That a Senate or Council of Governours having ſupreme power, ſhould inſtitute a popular Aſſembly, and propoſe to it, though in all reaſon it be the far more facile and practi<g ref="char:EOLhyphen"/>cable, is that wich is rarer.</p>
+            <p n="72">
+               <pb n="10" facs="tcp:114997:7"/>
+               <!-- PDF PAGE 7 -->
+               <hi>LXXII.</hi> Where ſuch Elections are propoſed unto the people, as being made accordingly, muſt needs produce a well-ordered Commonwealth, and the people (who never ſtick at ſuch work) elect accordingly, there not the Propoſers of any pow<g ref="char:EOLhyphen"/>er in them, but the people by their peculiar and natural right and power, do inſtitute and ordain their whole Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p n="73">
+               <hi>LXXIII.</hi> An Aſſembly of men (being all Aſſemblies are naturally void of invention) is not capable of inventing any perfect Model or Method of Government.</p>
+            <p n="74">
+               <hi>LXXIV.</hi> The wiſeſt Aſſemblies (through this neceſſity) have in the Formation or Reformation of their Governments, ſtill pitch<g ref="char:EOLhyphen"/>ed upon ſome one man.</p>
+            <p n="75">
+               <hi>LXXV.</hi> It is not below the dignity of any Aſſembly, but accor<g ref="char:EOLhyphen"/>ding unto the practice of a good Commonwealth, to admit of any man that is able to propoſe to them.</p>
+            <p n="76">
+               <hi>LXXVI.</hi> One mans reaſon is as another mans judgment; yet is it in Art to ſay things which will do themſelves, at leaſt it is lawful for any man to appeal unto Event, and ſo do I in theſe Aphoriſms.</p>
+            <closer>
+               <dateline>
+                  <date>Aug. 25. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
